@@ -2,7 +2,6 @@ What you need: Arduino board, LEDs, Tilt sensor, wires
 
 ![TiltSensor](https://github.com/user-attachments/assets/457fd88a-1449-4b54-87bb-c01c7d32fa45)
 
-
 ![20250812_114952](https://github.com/user-attachments/assets/466281a9-c251-4561-815a-fc758ad14fd3)
 
 ![20250812_114916](https://github.com/user-attachments/assets/48549e8c-1b84-4a1d-aa2e-2da4c90e442b)
