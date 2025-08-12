@@ -7,7 +7,7 @@ What you need: Arduino board, LEDs, Tilt sensor, wires
 ![20250812_114916](https://github.com/user-attachments/assets/48549e8c-1b84-4a1d-aa2e-2da4c90e442b)
 
 
-Unreal Engine: I implemented everything in the Level Blueprint and used a material parameter Collection, which updates the material color whenever the tilt values change.
+Unreal Engine: I implemented everything in the Level Blueprint and used a material parameter Collection, which updates the material color whenever the tilt values change. That material is applied to the widget background.
 
 <img width="2545" height="1439" alt="Screenshot 2025-08-12 114610" src="https://github.com/user-attachments/assets/3e51f9c4-5750-4c88-b580-9b53f5093cc5" />
 
